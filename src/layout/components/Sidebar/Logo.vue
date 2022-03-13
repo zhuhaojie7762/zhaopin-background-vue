@@ -35,7 +35,7 @@ export default {
   },
   data() {
     return {
-      title: '建德人才人事管理系统',
+      title: '若依后端管理系统',
       logo: logoImg
     }
   }

@@ -1,5 +1,5 @@
 module.exports = {
-  title: '建德人才人事后端管理系统',
+  title: '若依后端管理系统',
 
   /**
    * 侧边栏主题 深色主题theme-dark，浅色主题theme-light
